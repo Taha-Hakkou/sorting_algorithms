@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -Wall -Wextra -Werror -pedantic  -std=gnu89 103-main.c 103-merge_sort.c print_array.c -o merge
